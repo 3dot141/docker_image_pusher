@@ -5,3 +5,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/3dot141/blog:latest
+grafana/alloy:v1.8.1
+grafana/grafana:11.6.0
+grafana/tempo:2.7.2
+grafana/loki:3.4.3
+grafana/mimir:2.16.0
+grafana/k6:0.58.0
+grafana/pyroscope:1.13.1
+grafana/beyla:2.1.0
